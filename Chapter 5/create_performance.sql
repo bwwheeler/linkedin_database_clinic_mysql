@@ -1,0 +1,1 @@
+CREATE TABLE performance (query_type TEXT NOT NULL, query_time FLOAT NOT NULL);

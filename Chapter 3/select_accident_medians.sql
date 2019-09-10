@@ -1,0 +1,1 @@
+SELECT vehicle_type AS 'Vehicle Type', median_accident_severity AS 'Median Severity' FROM accidents.accident_medians;
